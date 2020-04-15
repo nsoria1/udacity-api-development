@@ -6,4 +6,4 @@
 - OAuth 2.0 authentication
 
 ## Provider
-Udacity
+Udacity.com
